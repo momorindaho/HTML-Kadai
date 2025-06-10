@@ -8,10 +8,17 @@ body {
 /** ヘッダー */
 
 .header__container {
+background-color: #0f1923;
+display: flex;
+justify-content: space-between;
 }
 
+
 .header__nav {
-  width: 400px;
+  width: 200px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
 }
 
 .nav-item {
