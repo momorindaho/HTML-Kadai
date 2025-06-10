@@ -24,6 +24,19 @@ justify-content: space-between;
 .nav-item {
 }
 
+a{
+  color:rgb(25, 240, 180);
+text-decoration: none;
+}
+
+h1{
+  color: chartreuse;
+}
+.about_descr1ption{
+  color: white;
+  display: flex;
+align-content: center;
+}
 /* メンバー */
 .member-section .members {
 }
