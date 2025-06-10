@@ -41,13 +41,17 @@ align-content: center;
 .member-section .members {
 }
 
-.member {
+.sect1on-t1t1e{
+  color: chartreuse;
+
 }
 
-.member__image img {
+.member{
+  color: white;
 }
 
-.member__name {
+.member__1mage .member__1mage{
+  width: 200px;
 }
 
 /* ゲーム */
