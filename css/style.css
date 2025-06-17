@@ -41,22 +41,29 @@ align-content: center;
 
 .member-section .members {
 }
-.container {
-  display: flex;
-}
+
 .sect1on-t1t1e{
   color: chartreuse;
-
+  font-size: 25px;
 }
 
 .member{
-  color: white;
+ background-color: black;
+ padding-left: 25px;
+ padding-right: 25px;
+ padding-top: 20px;
+ margin-bottom: 25px;
+ margin-right: 25px;
+ margin-left: 25px;
 }
 
 .member__1mage .member__1mage{
-  width: 180px;
+  width: 250px;
 }
-.member-section .members {
+.member_name {
+  color: white;
+  font-size: 30px;
+  display: flex;
 }
 
 .sect1on-t1t1e{
