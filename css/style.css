@@ -1,18 +1,16 @@
 /* ページ全体 */
 
 body {
-    background-color: #0f1923;
+  background-color: #0f1923;
 }
-
 
 /** ヘッダー */
 
 .header__container {
-background-color: #0f1923;
-display: flex;
-justify-content: space-between;
+  background-color: #0f1923;
+  display: flex;
+  justify-content: space-between;
 }
-
 
 .header__nav {
   width: 200px;
@@ -24,40 +22,35 @@ justify-content: space-between;
 .nav-item {
 }
 
-a{
-  color:rgb(25, 240, 180);
-text-decoration: none;
+a {
+  color: rgb(25, 240, 180);
+  text-decoration: none;
 }
 
-h1{
+h1 {
   color: chartreuse;
 }
-.about_descr1ption{
+.about_descr1ption {
   color: white;
   display: flex;
-align-content: center;
+  align-content: center;
 }
 /* メンバー */
 
 .member-section .members {
 }
 
-.sect1on-t1t1e{
+.sect1on-t1t1e {
   color: chartreuse;
   font-size: 25px;
 }
 
-.member{
- background-color: black;
- padding-left: 25px;
- padding-right: 25px;
- padding-top: 20px;
- margin-bottom: 25px;
- margin-right: 25px;
- margin-left: 25px;
+.member {
+  background-color: black;
+  width: 20%;
 }
 
-.member__1mage .member__1mage{
+.member__image .member__image {
   width: 250px;
 }
 .member_name {
@@ -67,14 +60,13 @@ align-content: center;
   justify-content: space-around;
 }
 
-
-.menbers{
+.menbers {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-.menber-section{
+.menber-section {
   background-color: white;
 }
 
