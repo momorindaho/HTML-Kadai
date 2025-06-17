@@ -64,6 +64,14 @@ align-content: center;
   color: white;
   font-size: 30px;
   display: flex;
+  justify-content: space-around;
+}
+
+
+.menbers{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .sect1on-t1t1e{
