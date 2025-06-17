@@ -74,9 +74,8 @@ align-content: center;
   justify-content: space-around;
 }
 
-.sect1on-t1t1e{
-  color: chartreuse;
-
+.menber-section{
+  background-color: white;
 }
 
 /* ゲーム */
