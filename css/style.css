@@ -60,18 +60,9 @@ align-content: center;
   color: chartreuse;
 
 }
-
-.member{
-  color: white;
-}
-
-.member__2mage .member__2mage{
-  width: 180px;
-}
 .container {
-  color: white; 
   display: flex;
-  align-content: center;
+  flex-direction: row;
 }
 
 /* ゲーム */
