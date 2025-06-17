@@ -53,7 +53,21 @@ align-content: center;
 .member__1mage .member__1mage{
   width: 180px;
 }
+.member-section .members {
+}
 
+.sect1on-t1t1e{
+  color: chartreuse;
+
+}
+
+.member{
+  color: white;
+}
+
+.member__2mage .member__2mage{
+  width: 180px;
+}
 /* ゲーム */
 
 /* お問い合わせ */
