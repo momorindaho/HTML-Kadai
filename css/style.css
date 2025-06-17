@@ -69,8 +69,11 @@ align-content: center;
   width: 180px;
 }
 .container {
+  color: white; 
   display: flex;
+  align-content: center;
 }
+
 /* ゲーム */
 
 /* お問い合わせ */
