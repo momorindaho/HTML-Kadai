@@ -68,6 +68,9 @@ align-content: center;
 .member__2mage .member__2mage{
   width: 180px;
 }
+.container {
+  display: flex;
+}
 /* ゲーム */
 
 /* お問い合わせ */
