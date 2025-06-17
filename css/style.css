@@ -40,6 +40,9 @@ align-content: center;
 /* メンバー */
 .member-section .members {
 }
+.container {
+  display: inline-flex;
+}
 
 .sect1on-t1t1e{
   color: chartreuse;
@@ -59,10 +62,6 @@ align-content: center;
 .sect1on-t1t1e{
   color: chartreuse;
 
-}
-.container {
-  display: flex;
-  flex-direction: row;
 }
 
 /* ゲーム */
